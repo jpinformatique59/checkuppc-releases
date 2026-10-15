@@ -1,1 +1,1 @@
-# checkuppc-releases
+# Kura-PC
