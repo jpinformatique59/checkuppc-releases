@@ -1,5 +1,3 @@
-{
-  "latest_version": "1.0.1",
-  "download_url": "https://github.com/jpinformatique59/checkuppc-releases/releases/download/v1.0.1/Kura_PC_Setup_v1.0.1.exe",
-  "release_notes": "Rangement automatique selon vos bibliothèques Windows, Grand Nettoyage fluide sans clic intermédiaire et astuces pratiques."
-}
+"latest_version": "1.0.2",
+"download_url": "https://kura-pc.fr/Kura_PC_Setup_v1.0.2.exe",
+"release_notes": "Sauvegarde rangée par utilisateur : chaque personne a son propre dossier sur le disque de sauvegarde, et vos anciennes sauvegardes peuvent y être rattachées. Installation plus fiable : Kura PC se ferme tout seul pendant la mise à jour et la 1.0.0 est remplacée sans doublon."
