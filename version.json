@@ -1,3 +1,5 @@
-"latest_version": "1.0.2",
-"download_url": "https://kura-pc.fr/Kura_PC_Setup_v1.0.2.exe",
-"release_notes": "Sauvegarde rangée par utilisateur : chaque personne a son propre dossier sur le disque de sauvegarde, et vos anciennes sauvegardes peuvent y être rattachées. Installation plus fiable : Kura PC se ferme tout seul pendant la mise à jour et la 1.0.0 est remplacée sans doublon."
+{
+  "latest_version": "1.0.2",
+  "download_url": "https://kura-pc.fr/Kura_PC_Setup_v1.0.2.exe",
+  "release_notes": "Sauvegarde rangée par utilisateur : chaque personne a son propre dossier sur le disque de sauvegarde, et vos anciennes sauvegardes peuvent y être rattachées. Installation plus fiable : Kura PC se ferme tout seul pendant la mise à jour et la 1.0.0 est remplacée sans doublon."
+}
